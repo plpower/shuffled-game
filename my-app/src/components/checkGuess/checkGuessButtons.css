@@ -1,0 +1,31 @@
+.nyt-button-group-container {
+  display: flex;
+  margin-top: 20px;
+}
+
+.nyt-button {
+  flex: 1;
+  padding: 15px;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 0.65em;
+border-radius: 0.5rem;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0 5px;
+  /* transition: background-color 0.5s ease, opacity 0.5s ease; */
+}
+
+/* Style for the Check button */
+.nyt-button-check {
+  /* background-color: #4caf50; */
+  background-color: #686767;
+  color: #fff;
+}
+
+/* Style for the Clear button */
+.nyt-button-clear {
+  background-color: #686767;
+  color: #fff;
+}
