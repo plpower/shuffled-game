@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/plpower/shuffled-game/static/css/main.0a558d45.css",
+    "main.js": "/plpower/shuffled-game/static/js/main.acc615ca.js",
+    "static/js/787.d4aba7ab.chunk.js": "/plpower/shuffled-game/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/plpower/shuffled-game/index.html",
+    "main.0a558d45.css.map": "/plpower/shuffled-game/static/css/main.0a558d45.css.map",
+    "main.acc615ca.js.map": "/plpower/shuffled-game/static/js/main.acc615ca.js.map",
+    "787.d4aba7ab.chunk.js.map": "/plpower/shuffled-game/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a558d45.css",
+    "static/js/main.acc615ca.js"
+  ]
+}
